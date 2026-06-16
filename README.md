@@ -1,72 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0,0,10,ff4d00&height=200&section=header&text=HARSH%20JASANI&fontSize=70&fontColor=fff&animation=fadeIn&stroke=ff4d00&strokeWidth=2&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%94%20I%20make%20the%20web%20move&descSize=16&descAlignY=75&descFontColor=888888" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d00&height=6&section=header" width="100%"/>
 
 <br/>
 
-<div align="center">
+```
+not ur average dev.
+```
 
-> *"Most devs build websites. I build experiences that make people stop scrolling."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0a0a0a&height=120&text=HARSH%20JASANI&fontSize=64&fontColor=ffffff&animation=scaleIn&fontAlignY=65" width="100%"/>
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### WHO
-```
-Harsh Jasani
-Full Stack Developer
-India 🇮🇳
-```
-
-### WHAT I DO
-```
-→ React + Node.js web apps
-→ GSAP cinematic animations  
-→ Premium UI that feels alive
-→ From idea to deployed product
-```
-
-### CURRENTLY
-```
-↳ Building a GSAP Agency Portfolio
-↳ Obsessing over scroll animations
-↳ Available for freelance work ⚡
-```
-
-</td>
-<td valign="top" width="50%">
-
-### STACK
-```
-UI        React · Next.js · TypeScript
-STYLE     Tailwind · GSAP · Framer
-SERVER    Node.js · Express · REST
-DATA      MongoDB · Mongoose
-TOOLS     Git · Figma · Vite · Vercel
-```
-
-### VIBE
-```
-60fps or nothing.
-Dark mode always.
-Details that nobody notices
-but everybody feels.
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarshJasani9&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff4d00&icon_color=ff4d00&text_color=f0ece4&hide=prs&rank_icon=github&card_width=400" width="46%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshJasani9&hide_border=true&background=0a0a0a&ring=ff4d00&fire=ff4d00&currStreakLabel=ff4d00&sideLabels=888888&dates=888888&sideNums=f0ece4&currStreakNum=f0ece4" width="46%"/>
+![](https://img.shields.io/badge/FULL%20STACK-DEV-ff4d00?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/GSAP-OBSESSED-ff4d00?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/OPEN%20TO-FREELANCE-ff4d00?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
@@ -74,12 +22,67 @@ but everybody feels.
 
 <div align="center">
 
-[`🌐 Portfolio`](https://harshjasani.netlify.app/)&nbsp;&nbsp;&nbsp;[`🐦 Twitter`](https://twitter.com/harshhjasani1)&nbsp;&nbsp;&nbsp;[`💼 LinkedIn`](https://linkedin.com/in/harshjasani)&nbsp;&nbsp;&nbsp;[`🐙 GitHub`](https://github.com/HarshJasani9)
+### no cap, this is me →
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=HarshJasani9&color=ff4d00&style=flat-square&label=)
+| | |
+|---|---|
+| 🔥 **building** | premium GSAP agency portfolio |
+| ⚡ **stack** | React · Node.js · MongoDB · GSAP |
+| 🎨 **obsession** | animations that hit different |
+| 📍 **location** | India 🇮🇳 |
+| 💀 **status** | in my dev arc |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0,0,10,ff4d00&height=100&section=footer&animation=fadeIn&stroke=ff4d00&strokeWidth=1" width="100%"/>
+---
+
+<div align="center">
+
+### the tech that lives rent free in my head
+
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![GSAP](https://img.shields.io/badge/GSAP-0a0a0a?style=flat-square&logo=greensock&logoColor=88CE02)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=4EA94B)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=007ACC)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=F24E1E)
+
+</div>
+
+---
+
+<div align="center">
+
+### numbers go brr
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshJasani9&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&hide=prs&rank_icon=github&hide_title=true" width="46%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshJasani9&hide_border=true&background=0a0a0a&ring=ff4d00&fire=ff4d00&currStreakLabel=ff4d00&sideLabels=666666&dates=666666&sideNums=ffffff&currStreakNum=ffffff" width="46%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### find me on the internet
+
+[![Portfolio](https://img.shields.io/badge/🌐_portfolio-0a0a0a?style=for-the-badge)](https://harshjasani.netlify.app/)
+[![Twitter](https://img.shields.io/badge/🐦_twitter-0a0a0a?style=for-the-badge)](https://twitter.com/harshhjasani1)
+[![LinkedIn](https://img.shields.io/badge/💼_linkedin-0a0a0a?style=for-the-badge)](https://linkedin.com/in/harshjasani)
+
+<br/>
+
+```
+if my code works, don't touch it. 🙏
+```
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=HarshJasani9&color=ff4d00&style=flat-square&label=people+who+found+me)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d00&height=6&section=footer" width="100%"/>
+
+</div>
